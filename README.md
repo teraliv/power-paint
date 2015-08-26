@@ -1,4 +1,4 @@
-# Power Paint GUI Programm
+# Power Paint
 ### TCSS 305 Programming Prcticum
 
 A simple graphical program for painting.
